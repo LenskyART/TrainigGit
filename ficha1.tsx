@@ -1,3 +1,5 @@
+import './ficha.scss'
+
 export function Wtf() {
     return (
         <>
